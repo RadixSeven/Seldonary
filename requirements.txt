@@ -1,0 +1,4 @@
+black
+django
+mypy
+pre-commit
